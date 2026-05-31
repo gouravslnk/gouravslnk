@@ -1,82 +1,123 @@
-<h1 align="center">Hey there! 👋 I'm Gourav</h1>
+<h1 align="center">Hey there! I'm Gourav Solanki</h1>
 
 
-<p align="center">🚀 Developer | 💻 Code Tinkerer | 📸 Photographer | 🔍 Always Exploring</p>
+### About Me
 
-<p align="center" style="background-color:#1e1e2f; padding: 15px; border-radius: 12px; width: 900px; margin: auto;">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=ffffff&background=1e1e2f&center=true&vCenter=true&width=900&lines=I+code%2C+debug%2C+and+sometimes+Google+error+messages+%F0%9F%92%BB;Building+things+that+make+life+easier+%F0%9F%92%AA."
-    alt="Typing SVG" />
-</p>
+Computer Science undergraduate passionate about building products that solve real problems.
 
+Currently focused on:
 
+* Data Structures & Algorithms
+* Full Stack Development
+* Machine Learning
+* Open Source
+
+Building real-time applications, AI-powered tools, and occasionally debugging things that worked five minutes ago.
+
+**Outside of coding**
+
+* Behind the camera → [@enzzowho](https://instagram.com/enzzowho)
+* Solving DSA problems (still trying to finish that sheet everyone talks about)
+* Building projects that start as "quick ideas"
+
+**Reach me at**
+
+* **[itsgouravsolanki@gmail.com](mailto:itsgouravsolanki@gmail.com)**
 
 ---
 
-### 🧠 Who Am I?
-
-💡 I build things that (hopefully) help people   
-📸 When I’m not coding, I’m behind the camera → [@enzzowho](https://instagram.com/enzzowho)  
-🌱 Always exploring new tools, tech, and side quests  
-📬 Email me at: **itsgouravsolanki@gmail.com**
-
-
----
-
-### 🌐 Let's Connect
+### Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/gouravslnk"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://instagram.com/gauravslnk"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
   <a href="https://twitter.com/gouravslnk"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
 
-### 🧰 Tech Toolbox
+### Tech Toolbox
 
-<p align="center">
-  
-### Programming Languages
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.google.com/search?q=C+programming)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.google.com/search?q=C%2B%2B)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.google.com/search?q=JavaScript)
+#### Languages
 
-### Frontend
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-### Backend
-[![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+#### Frontend
 
-### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
-### Version Control & Developer Tools
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+#### Backend & APIs
 
-### Frameworks & Libraries
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+
+#### Databases & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+
+#### AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+
+#### Developer Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+### Currently Grinding
+
+```cpp
+while(placements_not_secured) {
+    solveDSA();
+    buildProjects();
+    learnSomethingNew();
+}
+```
+
+---
 
 ### Chill Zone
 
-<a href="https://open.spotify.com/user/jl3ute5qrdtxuvvp8xevgmzmc?si=d4579d12b6c14fb0" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-</a>
+<p>
+  <a href="https://open.spotify.com/user/jl3ute5qrdtxuvvp8xevgmzmc?si=d4579d12b6c14fb0" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
 
+  <a href="https://music.youtube.com/@enzzowho?si=q76QutGQrauIMkuA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music"/>
+  </a>
 </p>
 
 ---
 
+<div align="center">
 
-<p align="center">
-If you read this far—congrats, you deserve a cookie 🍪
-</p>
+```bash
+git commit -m "works on my machine"
+```
 
----
+**How many cups of coffee per day?**
 
+Yes.
+
+</div>

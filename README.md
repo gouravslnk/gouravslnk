@@ -116,8 +116,5 @@ while(placements_not_secured) {
 git commit -m "works on my machine"
 ```
 
-**How many cups of coffee per day?**
-
-Yes.
-
+**How many cups of coffee per day?** - Yes.
 </div>
